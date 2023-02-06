@@ -1,6 +1,6 @@
 # Basic Tools
 
-### [DRG Packer]()
+### [DRG Packer](https://github.com/DRG-Modding/tools/blob/9bacb72561a5ce43d84138999bd972158b2b34a0/loose-files/DRGPacker4.27.zip)
 - This is a wrapper for UnrealPak and you can run it without needing to download Unreal Engine. 
 - It allows you to unpack and repack your mod files.
 
@@ -14,11 +14,8 @@
 ### [UModel](https://www.gildor.org/en/projects/umodel)
 - A tool for viewing and extracting assets from the game.
 
-### [Empty Content Hierarchy]()
+### [Empty Content Hierarchy](https://github.com/DRG-Modding/tools/blob/9bacb72561a5ce43d84138999bd972158b2b34a0/loose-files/EmptyContentHierarchy%20U37P11.zip)
 - This is simply a collection of empty folders that make up the content hierarchy of the game files.
-
-### [DRG Control Flow Graphs](https://github.com/trumank/drg-control-flow-graphs)
-- This is a collection of control flow graphs for the DRG's blueprints.
 
 ### [FSD Template](https://github.com/DRG-Modding/FSD-Template)
 - A template UE4.27 project for Blueprint modding. 

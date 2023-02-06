@@ -8,7 +8,10 @@
 - Scans the given mod for common problems as well as whether it should pass auto-verification.
 - If a mod isn't auto-verifying or is quite simply not working at all, this tool should point you in the right direction.
 
-### [DRG Fonts]()
+### [DRG Control Flow Graphs](https://github.com/trumank/drg-control-flow-graphs)
+- This is a collection of control flow graphs for the DRG's blueprints.
+
+### [DRG Fonts](https://github.com/DRG-Modding/tools/blob/9bacb72561a5ce43d84138999bd972158b2b34a0/loose-files/DRG%20Fonts.zip)
 - Collection of fonts used in the game.
 
 ### [.locres Editor](https://github.com/akintos/UnrealLocres)
