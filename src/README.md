@@ -1,4 +1,5 @@
-# [DRG Modding Discord](https://discord.gg/zQMKGTStfa)
+# [DRG RND Discord](https://discord.gg/tmFJcesA6d)
+# [DRG Modder's Guild Discord](https://discord.gg/nkPhp2sZfd)
 
 ## Overview
 This is a collection of tools and resources for modding Deep Rock Galactic.
