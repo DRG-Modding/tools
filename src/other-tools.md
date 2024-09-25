@@ -22,5 +22,5 @@
 - The live view debugger lists every mounted object, and allows you to view and edit the exact values of every property of every object, during runtime.
 - If you want to watch the how the value of something changes during runtime, you can assign a watch to the property and it will log every value (which you can log to a file).
 
-### [Dwarf SDK](https://discord.com/channels/676880716142739467/1030619997258649712)
+### [Dwarf SDK](https://github.com/DRG-Modding/Community-Modkit)
 - A modkit for DRG's assets, allowing you to view, edit and reference almost every asset fully reconstructed within the editor.
